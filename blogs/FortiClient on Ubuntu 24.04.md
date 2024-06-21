@@ -15,7 +15,7 @@ wget http://ftp.de.debian.org/debian/pool/main/n/nss/libnss3-tools_3.87.1-1_amd6
 sudo dpkg -i libnss3-tools_3.87.1-1_amd64.deb
 
 # 下载和安装FortiClient VPN：
-wget https://www.fortinet.com/support/product-downloads/forticlient
+wget https://www.dropbox.com/scl/fi/txzysr5jlxphbric5nbtb/forticlient_vpn_7.4.0.1636_amd64.deb?rlkey=7ayreh4qwel0qw7tmcx8zqy95&st=ts2mu5h3&dl=0
 sudo dpkg -i forticlient_vpn_7.4.0.1636_amd64.deb
 ```
 
