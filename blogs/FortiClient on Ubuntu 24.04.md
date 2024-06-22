@@ -21,7 +21,7 @@ sudo dpkg -i forticlient_vpn_7.4.0.1636_amd64.deb
 
 完成！
 
-FortiClient VPN 也可在以下链接下载：[Product Downloads | Fortinet Product Downloads | Support](https://link.zhihu.com/?target=https%3A//www.fortinet.com/support/product-downloads%23vpn)。选择“DOWNLOAD VPN for Linux .deb”。目前版本为7.4.0.1636_amd64。
+FortiClient VPN 也可在以下链接下载：[Product Downloads | Fortinet Product Downloads | Support](https://www.fortinet.com/support/product-downloads#vpn)。选择“DOWNLOAD VPN for Linux .deb”。目前版本为7.4.0.1636_amd64。
 
 依赖软件包均可在以下网站搜索下载，找到下方“Download”中的“Binary Package”使用 wget 下载即可：
 [​pkgs.org/](https://pkgs.org/)
